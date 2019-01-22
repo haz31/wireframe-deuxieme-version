@@ -1,0 +1,36 @@
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.drake {
+	width: 20%;
+	height: 20%;
+}
+section {
+
+   display: flex;
+   justify-content: space-around;
+   flex-direction: column;
+   align-items: center;
+
+}
+.logo {
+    
+    margin-top: 100px;
+    padding-top: 50px;
+    width: 30%;
+    height: 30%;
+
+}
+
+footer {
+
+display: flex;
+justify-content: flex-end;
+padding-top: 100px;
+
+}
+h2 {
+  padding-right: 550px;
+}
